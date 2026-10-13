@@ -1,0 +1,6 @@
+C:\Users\nazil\source\repos\ProyectoISW\ProyectoPracticas\ClassLibrary\bin\Debug\F1GestLib.dll
+C:\Users\nazil\source\repos\ProyectoISW\ProyectoPracticas\ClassLibrary\bin\Debug\F1GestLib.pdb
+C:\Users\nazil\source\repos\ProyectoISW\ProyectoPracticas\ClassLibrary\obj\Debug\F1GestLib.csproj.AssemblyReference.cache
+C:\Users\nazil\source\repos\ProyectoISW\ProyectoPracticas\ClassLibrary\obj\Debug\F1GestLib.csproj.CoreCompileInputs.cache
+C:\Users\nazil\source\repos\ProyectoISW\ProyectoPracticas\ClassLibrary\obj\Debug\F1GestLib.dll
+C:\Users\nazil\source\repos\ProyectoISW\ProyectoPracticas\ClassLibrary\obj\Debug\F1GestLib.pdb

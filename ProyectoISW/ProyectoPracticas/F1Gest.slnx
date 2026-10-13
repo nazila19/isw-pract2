@@ -1,0 +1,14 @@
+<Solution>
+  <Folder Name="/Library/">
+    <Project Path="ClassLibrary/F1GestLib.csproj" Id="a448ca87-0250-400c-9b02-34c42c494277" />
+  </Folder>
+  <Folder Name="/Presentation/">
+    <File Path="Class3.cs" />
+  </Folder>
+  <Folder Name="/Testing/">
+    <File Path="Class2.cs" />
+  </Folder>
+  <Folder Name="/Testing/Lab1/">
+    <Project Path="HelloWorldApp/HelloWorldApp.csproj" Id="4feb8796-d9b0-4da8-8ff2-03d18f923ffa" />
+  </Folder>
+</Solution>
